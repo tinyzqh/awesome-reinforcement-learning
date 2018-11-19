@@ -1,9 +1,16 @@
 # awesome-reinforcement-learning
 强化学习的相关学习资源、链接
 
-Openai Spinning Up ：https://spinningup.openai.com/en/latest/index.html
+# 教程资源
 
-## ROS-RL-Kinetic
+Openai Spinning Up资源 ：https://spinningup.openai.com/en/latest/index.html
+
+# 强化学习实战资源
+
+## 论文复现
+伯克利DeepMimic： https://github.com/xbpeng/DeepMimic
+
+# ROS-RL-Kinetic
 
 Deep reinforcement learning for UAV in Gazebo simulation environment : https://github.com/PX4-Gazebo-Simulation/drl_uav
 
@@ -43,7 +50,7 @@ Reinforcement learning for ROS simulation : https://github.com/mwg900/IRL_learni
 
 Open Ai Gym extension for robotics : https://github.com/JdeRobot/robotics-gym
 
-## ROS-RL-Indigo
+# ROS-RL-Indigo
 
 Learnign high-level reasoning of human interactions in a scoial greeting using deep reinforcement learning : 
 
