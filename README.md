@@ -1,70 +1,119 @@
 # awesome-reinforcement-learning
 强化学习的相关学习资源、链接
 
-# 教程资源
+# 网址教程资源
 
-Openai Spinning Up资源 ：https://spinningup.openai.com/en/latest/index.html
+## 教程网址
+
+什么是强化学习：http://www.cnblogs.com/geniferology/p/what_is_reinforcement_learning.html
+
+强化学习系列之一:马尔科夫决策过程：http://www.algorithmdog.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B
+
+强化学习系列之三:模型无关的策略评价：http://www.algorithmdog.com/reinforcement-learning-model-free-evalution
+
+强化学习系列之九:Deep Q Network (DQN)：http://www.algorithmdog.com/drl
+
+强化学习与MDP：http://www.cnblogs.com/mo-wang/p/4910855.html
+
+强化学习入门及其实现代码： http://www.jianshu.com/p/165607eaa4f9
+
+强化学习简介——南京大学俞扬：https://www.jianguoyun.com/p/DVSE-5AQ5oLtBRiKmis
+
+强化学习教程(莫烦) ：https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+
+Openai Spinning Up ：https://spinningup.openai.com/en/latest/index.html
+
+Reinforcement learning wiki：https://en.wikipedia.org/wiki/Reinforcement_learning
+
+Deep Reinforcement Learning: Pong from Pixels：http://karpathy.github.io/2016/05/31/rl/
+
+CS 294: Deep Reinforcement Learning：http://rll.berkeley.edu/deeprlcourse/
+
+David视频里所使用的讲义pdf：https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver
+
+David Silver ICML2016 Tutorial: Deep Reinforcement Learning 视频 ：http://techtalks.tv/talks/deep-reinforcement-learning/62360/
+
+## 博客网址
+
+Play pong with deep reinforcement learning based on pixel： http://karpathy.github.io/2016/05/31/rl/
+
+What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?： https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/
+
+Deep Learning in a Nutshell: Reinforcement Learning：https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/
+
+南京大学俞扬博士万字演讲全文：强化学习前沿：https://www.leiphone.com/news/201705/NlTc7oObBqh116Z5.html
+
+AlphaGo 相关的资源：https://deepmind.com/research/alphago/
+
+Reinforcement Learning(RL) for Natural Language Processing(NLP) ：https://github.com/adityathakker/awesome-rl-nlp
+
+## 领域专家 
+
+加州大学伯克利分校机器人学专家 Sergey Levine：https://people.eecs.berkeley.edu/~svlevine/
+
+前百度首席科学家 Andrew Ng：http://www.andrewng.org/
+
+加拿大阿尔伯塔大学著名增强学习大师Richard S. Sutton 教授：https://www.amii.ca/sutton/
+
+Google DeepMind AlphaGo项目的主程序员 David Silver 博士：http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html
 
 # 强化学习实战资源
 
-## 论文复现
-伯克利DeepMimic： https://github.com/xbpeng/DeepMimic
+Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course：https://github.com/dennybritz/reinforcement-learning
 
-# ROS-RL-Kinetic
+Google DeepMind David Silver《深度强化学习》公开课教程学习笔记以及实战：http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g
 
-Deep reinforcement learning for UAV in Gazebo simulation environment : https://github.com/PX4-Gazebo-Simulation/drl_uav
+OpenAI Gym： https://github.com/openai/gym
 
-a turtlebot reinforcement learning in Gazebo : https://github.com/linZHank/turtlebot_rl
+DQN 源码：http://sites.google.com/a/deepmind.com/dqn/ ；https://github.com/devsisters/DQN-tensorflow
 
-Deep RL Arm Manipulation : https://github.com/gwwang16/DeepRL-Robot-Arm ; https://github.com/zenetio/DeepRL-Robotic
+DDPG 源码： https://github.com/stevenpjg/ddpg-aigym
 
-Reinforcement Learning with Gazebo & Rospy & Keras : https://github.com/HowoongJun/RL_with_Gazebo
+A3C：https://github.com/miyosuda/async_deep_reinforce ；https://github.com/openai/universe-starter-agent
 
-A drone control system based on deep reinforcement learning with Tensorflow and ROS : https://github.com/tobiasfshr/deep-reinforcement-learning-drone-control
+Codes for understanding Reinforcement Learning( updating... ) ：https://github.com/halleanwoo/ReinforcementLearningCode
 
-A reinforcement learning environment using Gazebo, ROS and openAI gym : https://github.com/deePurrobotics/gazebo_rl
+伯克利DeepMimic： https://github.com/xbpeng/DeepMimic ；SFV：https://arxiv.org/pdf/1810.03599.pdf
 
-SLAM-Safe Planner: Preventing Monocular SLAM Failure using Reinforcement Learning : https://github.com/ssingh82/rl_nav
+# 论文
 
-Reinforcement Learning framework for Robotics : https://github.com/angelmtenor/RL-ROBOT
+深度确定策略梯度 DPG的论文：http://www.jmlr.org/proceedings/papers/v32/silver14.pdf
 
-ROS implementation of multi-task reinforcement learning for Turtlebot 2 : https://github.com/lileee/Robotics-RL
+DQN 论文：http://www.nature.com/articles/nature14236
 
-Reinforcement Learning Framework and Repository : https://github.com/shunzh/rl-texplore-ros-pkg
+Mastering the Game of Go without Human Knowledge：https://deepmind.com/documents/119/agz_unformatted_nature.pdf
 
-Autonomous Drifting using Reinforcement Learning : https://github.com/kanakkabara/Autonomous-Drifting
+Mastering the game of Go with deep neural networks and tree search：http://www.nature.com/nature/journal/v529/n7587/abs/nature16961.html
 
-Overcoming Exploration in Reinforcement Learning with Demonstrations : https://github.com/jangirrishabh/Overcoming-exploration-from-demos
+Human level control with deep reinforcement learning：http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html
 
-QLearning-NAO_plays_Agario : https://github.com/albertpumarola/QLearning-NAO_plays_Agario
+Play Atari game with deep reinforcement learning：https://www.cs.toronto.edu/%7Evmnih/docs/dqn.pdf
 
-Training Neural Networks for Event-Based End-to-End Robot Control : https://github.com/clamesc/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control
+Prioritized experience replay：https://arxiv.org/pdf/1511.05952v2.pdf
 
-ROS/Gazebo simulations for reinforcement learning exercises : https://github.com/caasted/sphere_games
+Dueling DQN： https://arxiv.org/pdf/1511.06581v3.pdf
 
-Implement DQN in Stage simulator in ROS for Deep Reinforcement Learning using Google DeepMind. : https://github.com/Voidminded/DQNStageROS 
+Deep reinforcement learning with double Q Learning：https://arxiv.org/abs/1509.06461
 
-Deep (Reinforcement?) Learning for stage simulated robots : https://github.com/rakeshshrestha31/ros_stage_deepnet
+Deep Q learning with NAF：https://arxiv.org/pdf/1603.00748v1.pdf
 
-Reinforcement learning for ROS simulation : https://github.com/mwg900/IRL_learning_ros
+Deterministic policy gradient：http://jmlr.org/proceedings/papers/v32/silver14.pdf
 
-Open Ai Gym extension for robotics : https://github.com/JdeRobot/robotics-gym
+DDPG：https://arxiv.org/pdf/1509.02971v5.pdf
 
-# ROS-RL-Indigo
+Asynchronous Methods for Deep Reinforcement Learning：https://arxiv.org/abs/1602.01783
 
-Learnign high-level reasoning of human interactions in a scoial greeting using deep reinforcement learning : 
+Policy distillation： https://arxiv.org/abs/1511.06295
 
-ROS package for reinforcement learning on Baxter robot ：https://github.com/xli4217/baxter_learn
+Unifying Count-Based Exploration and Intrinsic Motivation：https://arxiv.org/pdf/1606.01868v2.pdf
 
-Using a Unity3D package to connect to ROS topics, robots can be simulated in the game-engine with communication to a Reinforcement Learning Algorithm. ：https://github.com/Mediemanden/Unity3D-ROS-RL
+Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models： https://arxiv.org/pdf/1507.00814v3.pdf
 
-Packages related to autonomous mobile robots using Deep Learning and Reinforcement algorithms ：https://github.com/surfertas/amr_core
+Action-Conditional Video Prediction using Deep Networks in Atari Games： https://arxiv.org/pdf/1507.08750v2.pdf
 
-This project is a simulation set- up for ROS Indigo upon which Reinforcement LEarning Algorithms can be used and applied ：https://github.com/sashank-tirumala/Arm_Research_Project
+Control of Memory, Active Perception, and Action in Minecraft： https://web.eecs.umich.edu/~baveja/Papers/ICML2016.pdf
 
-Reinforcement for state of the art visual slam algorithms with Deep Learning based solutions. Part of my master thesis at University of Freiburg ：https://github.com/akhilthomas17/reinforced_visual_slam
-
-
+PathNet：https://arxiv.org/pdf/1701.08734.pdf
 
 
 
