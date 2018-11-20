@@ -77,7 +77,13 @@ Codes for understanding Reinforcement Learning( updating... ) ：https://github.
 
 伯克利DeepMimic： https://github.com/xbpeng/DeepMimic ；SFV：https://arxiv.org/pdf/1810.03599.pdf
 
+A Platform for Many-agent Reinforcement Learning ：https://github.com/geek-ai/MAgent
+
+Go AI program which implements the AlphaGo Zero paper ：https://github.com/Tencent/PhoenixGo
+
 # 论文
+
+Deep Reinforcement Learning Papers：https://github.com/junhyukoh/deep-reinforcement-learning-papers
 
 深度确定策略梯度 DPG的论文：http://www.jmlr.org/proceedings/papers/v32/silver14.pdf
 
