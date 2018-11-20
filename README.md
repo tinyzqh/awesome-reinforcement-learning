@@ -7,7 +7,7 @@
 
 [什么是强化学习](http://www.cnblogs.com/geniferology/p/what_is_reinforcement_learning.html)
 
-强化学习系列之一:马尔科夫决策过程：http://www.algorithmdog.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B
+[强化学习系列之一:马尔科夫决策过程](http://www.algorithmdog.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B)
 
 强化学习系列之三:模型无关的策略评价：http://www.algorithmdog.com/reinforcement-learning-model-free-evalution
 
