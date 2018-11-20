@@ -17,9 +17,9 @@
 
 强化学习入门及其实现代码： http://www.jianshu.com/p/165607eaa4f9
 
-强化学习简介——南京大学俞扬：https://www.jianguoyun.com/p/DVSE-5AQ5oLtBRiKmis
+强化学习简介—南京大学俞扬-PDF：https://www.jianguoyun.com/p/DVSE-5AQ5oLtBRiKmis
 
-强化学习教程(莫烦) ：https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+[强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 
 Openai Spinning Up ：https://spinningup.openai.com/en/latest/index.html
 
