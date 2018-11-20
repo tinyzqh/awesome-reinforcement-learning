@@ -65,6 +65,8 @@ Google DeepMind David Silver《深度强化学习》公开课教程学习笔记�
 
 OpenAI Gym： https://github.com/openai/gym
 
+PyTorch 实现 DQN, AC, A2C, A3C, , Policy Gradient, DDPG, TRPO, PPO, ACER ：https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch
+
 DQN 源码：http://sites.google.com/a/deepmind.com/dqn/ ；https://github.com/devsisters/DQN-tensorflow
 
 DDPG 源码： https://github.com/stevenpjg/ddpg-aigym
