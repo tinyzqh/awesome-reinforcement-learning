@@ -61,6 +61,8 @@ Google DeepMind AlphaGo项目的主程序员 David Silver 博士：http://www0.c
 
 Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course：https://github.com/dennybritz/reinforcement-learning
 
+An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.https://github.com/kengz/openai_lab
+
 Google DeepMind David Silver《深度强化学习》公开课教程学习笔记以及实战：http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g
 
 OpenAI Gym： https://github.com/openai/gym
@@ -69,7 +71,19 @@ PyTorch 实现 DQN, AC, A2C, A3C, , Policy Gradient, DDPG, TRPO, PPO, ACER ：ht
 
 DQN 源码：http://sites.google.com/a/deepmind.com/dqn/ ；https://github.com/devsisters/DQN-tensorflow
 
+This repository contains a python implementation of a Deep Q-Network (DQN) for Atari gameplay using tensorflow. ：https://github.com/prabhatnagarajan/dqn
+
+reinforcement learning workshop ：https://github.com/frnsys/reinforcement_learning
+
 DDPG 源码： https://github.com/stevenpjg/ddpg-aigym
+
+Reimplementation of DDPG(Continuous Control with Deep Reinforcement Learning) based on OpenAI Gym + Tensorflow :https://github.com/floodsung/DDPG
+
+General purpose framework for deep reinforcement learning :https://github.com/sisl/Chimp
+
+PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning". :https://github.com/ikostrikov/pytorch-a3c
+
+Continuous control with deep reinforcement learning - Deep Deterministic Policy Gradient (DDPG) algorithm implemented in OpenAI Gym environments ：https://github.com/stevenpjg/ddpg-aigym
 
 A3C：https://github.com/miyosuda/async_deep_reinforce ；https://github.com/openai/universe-starter-agent
 
@@ -80,6 +94,26 @@ Codes for understanding Reinforcement Learning( updating... ) ：https://github.
 A Platform for Many-agent Reinforcement Learning ：https://github.com/geek-ai/MAgent
 
 Go AI program which implements the AlphaGo Zero paper ：https://github.com/Tencent/PhoenixGo
+
+An implementation of the Deep Deterministic Policy Gradient (DDPG) algorithm using Keras/Tensorflow with the robot simulated using ROS/Gazebo/MoveIt! ：https://github.com/robosamir/ddpg-ros-keras
+
+StarCraft II - pysc2 Deep Reinforcement Learning Examples ：https://github.com/chris-chris/pysc2-examples
+
+A reinforcement learning algorithm for the 2048 game ：https://github.com/Underflow/reinforcement-2048
+
+TensorFlow implementation of Deep Reinforcement Learning papers ：https://github.com/carpedm20/deep-rl-tensorflow
+
+Multiagent reinforcement learning simulation framework - Undergraduate thesis in Mechatronics Engineering at the University of Brasília ：https://github.com/matheusportela/Multiagent-RL
+
+DEEp Reinforcement learning framework:https://github.com/VinF/deer
+
+Using reinforcement learning to teach a car to avoid obstacles.:https://github.com/harvitronix/reinforcement-learning-car
+
+Deep Reinforcement Learning for Keras.:https://github.com/keras-rl/keras-rl
+
+Code to do multi agent systems research on StarCraft II. It contains methods to deal with the Raw Interface from the SC2 API, which has not been officially adapted for Python. This means that, the programmer can now access the objects at the game and the 2D original representation of the map :https://github.com/thefirebanks/MultiAgent-Systems-StarCraft2-PySC2-Raw
+
+Implementation of Meta-RL A3C algorithm :https://github.com/awjuliani/Meta-RL
 
 # 论文
 
