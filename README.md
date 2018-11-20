@@ -17,7 +17,7 @@
 * Reinforcement learning wiki：https://en.wikipedia.org/wiki/Reinforcement_learning
 * Deep Reinforcement Learning: Pong from Pixels：http://karpathy.github.io/2016/05/31/rl/
 * CS 294: Deep Reinforcement Learning：http://rll.berkeley.edu/deeprlcourse/
-* David视频里所使用的讲义pdf：https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver
+* [David视频里所使用的讲义pdf](https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver)
 * David Silver ICML2016 Tutorial: Deep Reinforcement Learning 视频 ：http://techtalks.tv/talks/deep-reinforcement-learning/62360/
 ### 博客网址
 
