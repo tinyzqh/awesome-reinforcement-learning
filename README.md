@@ -49,17 +49,17 @@ Reinforcement Learning(RL) for Natural Language Processing(NLP) ：https://githu
 
 ### 领域专家 
 
-加州大学伯克利分校机器人学专家 Sergey Levine：https://people.eecs.berkeley.edu/~svlevine/
+[加州大学伯克利分校机器人学专家 Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
-前百度首席科学家 Andrew Ng：http://www.andrewng.org/
+[前百度首席科学家 Andrew Ng](http://www.andrewng.org/)
 
-加拿大阿尔伯塔大学著名增强学习大师Richard S. Sutton 教授：https://www.amii.ca/sutton/
+[加拿大阿尔伯塔大学著名增强学习大师Richard S. Sutton 教授](https://www.amii.ca/sutton/)
 
-Google DeepMind AlphaGo项目的主程序员 David Silver 博士：http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html
+[Google DeepMind AlphaGo项目的主程序员 David Silver 博士](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html)
 
 # 强化学习实战资源
 
-Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research : https://github.com/Microsoft/AirSim ;安装初步使用中文教程：https://blog.csdn.net/weixin_39059031/article/details/84028487
+Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research : https://github.com/Microsoft/AirSim ;[安装初步使用中文教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
 
 Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course：https://github.com/dennybritz/reinforcement-learning
 
