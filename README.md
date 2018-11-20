@@ -3,7 +3,7 @@
 
 # 网址教程资源
 
-## 教程网址
+### 教程网址
 
 什么是强化学习：http://www.cnblogs.com/geniferology/p/what_is_reinforcement_learning.html
 
@@ -33,7 +33,7 @@ David视频里所使用的讲义pdf：https://github.com/18279406017/Course-note
 
 David Silver ICML2016 Tutorial: Deep Reinforcement Learning 视频 ：http://techtalks.tv/talks/deep-reinforcement-learning/62360/
 
-## 博客网址
+### 博客网址
 
 Play pong with deep reinforcement learning based on pixel： http://karpathy.github.io/2016/05/31/rl/
 
@@ -47,7 +47,7 @@ AlphaGo 相关的资源：https://deepmind.com/research/alphago/
 
 Reinforcement Learning(RL) for Natural Language Processing(NLP) ：https://github.com/adityathakker/awesome-rl-nlp
 
-## 领域专家 
+### 领域专家 
 
 加州大学伯克利分校机器人学专家 Sergey Levine：https://people.eecs.berkeley.edu/~svlevine/
 
