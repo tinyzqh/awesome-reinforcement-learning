@@ -22,25 +22,17 @@
 ### 博客网址
 
 * Play pong with deep reinforcement learning based on pixel： http://karpathy.github.io/2016/05/31/rl/
-
 * What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?： https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/
-
 * Deep Learning in a Nutshell: Reinforcement Learning：https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/
-
 * 南京大学俞扬博士万字演讲全文：强化学习前沿：https://www.leiphone.com/news/201705/NlTc7oObBqh116Z5.html
-
 * AlphaGo 相关的资源：https://deepmind.com/research/alphago/
-
 * Reinforcement Learning(RL) for Natural Language Processing(NLP) ：https://github.com/adityathakker/awesome-rl-nlp
 
 ### 领域专家 
 
 * [加州大学伯克利分校机器人学专家 Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
-
 * [前百度首席科学家 Andrew Ng](http://www.andrewng.org/)
-
 * [加拿大阿尔伯塔大学著名增强学习大师Richard S. Sutton 教授](https://www.amii.ca/sutton/)
-
 * [Google DeepMind AlphaGo项目的主程序员 David Silver 博士](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html)
 
 ## 强化学习实战资源
@@ -73,7 +65,6 @@
 * Using reinforcement learning to teach a car to avoid obstacles.:https://github.com/harvitronix/reinforcement-learning-car
 * Deep Reinforcement Learning for Keras.:https://github.com/keras-rl/keras-rl
 * Code to do multi agent systems research on StarCraft II. It contains methods to deal with the Raw Interface from the SC2 API, which has not been officially adapted for Python. This means that, the programmer can now access the objects at the game and the 2D original representation of the map :https://github.com/thefirebanks/MultiAgent-Systems-StarCraft2-PySC2-Raw
-
 * Implementation of Meta-RL A3C algorithm :https://github.com/awjuliani/Meta-RL
 
 ## 论文
