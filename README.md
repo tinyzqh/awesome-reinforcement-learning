@@ -59,7 +59,7 @@ Reinforcement Learning(RL) for Natural Language Processing(NLP) ：https://githu
 
 # 强化学习实战资源
 
-[Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research ] (https://github.com/Microsoft/AirSim ) ; [安装初步使用中文教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
+[Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; [安装初步使用中文教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
 
 Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course：https://github.com/dennybritz/reinforcement-learning
 
