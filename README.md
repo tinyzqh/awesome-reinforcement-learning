@@ -37,7 +37,8 @@
 
 ## 强化学习实战资源
 
-* [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; [安装初步使用中文教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
+* 微软AirSim仿真平台 [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
+* 多智能体研究平台[A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/83653310)
 * Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course：https://github.com/dennybritz/reinforcement-learning
 * An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.https://github.com/kengz/openai_lab
 * Google DeepMind David Silver《深度强化学习》公开课教程学习笔记以及实战：http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g
@@ -54,7 +55,6 @@
 * A3C：https://github.com/miyosuda/async_deep_reinforce ；https://github.com/openai/universe-starter-agent
 * Codes for understanding Reinforcement Learning( updating... ) ：https://github.com/halleanwoo/ReinforcementLearningCode
 * 伯克利DeepMimic： https://github.com/xbpeng/DeepMimic ；SFV：https://arxiv.org/pdf/1810.03599.pdf
-* A Platform for Many-agent Reinforcement Learning ：https://github.com/geek-ai/MAgent
 * Go AI program which implements the AlphaGo Zero paper ：https://github.com/Tencent/PhoenixGo
 * An implementation of the Deep Deterministic Policy Gradient (DDPG) algorithm using Keras/Tensorflow with the robot simulated using ROS/Gazebo/MoveIt! ：https://github.com/robosamir/ddpg-ros-keras
 * StarCraft II - pysc2 Deep Reinforcement Learning Examples ：https://github.com/chris-chris/pysc2-examples
