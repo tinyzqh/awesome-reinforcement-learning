@@ -41,6 +41,8 @@
 * 微软AirSim仿真平台 [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
 * 多智能体研究平台 [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/83653310)
 * Stable Baselines: https://github.com/hill-a/stable-baselines
+* Distributed Multi-Agent Cooperation Algorithm based on MADDPG with prioritized batch data. ： https://github.com/namidairo777/Distributed-MADDPG
+* PyTorch implementations of various DRL algorithms for both single agent and multi-agent. ： https://github.com/ChenglongChen/pytorch-madrl
 * Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course：https://github.com/dennybritz/reinforcement-learning
 * An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.https://github.com/kengz/openai_lab
 * Google DeepMind David Silver《深度强化学习》公开课教程学习笔记以及实战：http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g
@@ -68,7 +70,7 @@
 * Deep Reinforcement Learning for Keras.:https://github.com/keras-rl/keras-rl
 * Code to do multi agent systems research on StarCraft II. It contains methods to deal with the Raw Interface from the SC2 API, which has not been officially adapted for Python. This means that, the programmer can now access the objects at the game and the 2D original representation of the map :https://github.com/thefirebanks/MultiAgent-Systems-StarCraft2-PySC2-Raw
 * Implementation of Meta-RL A3C algorithm :https://github.com/awjuliani/Meta-RL
-
+* PlayGround: AI Research into Multi-Agent Learning：https://github.com/MultiAgentLearning/playground
 ## 论文
 
 * Deep Reinforcement Learning Papers：https://github.com/junhyukoh/deep-reinforcement-learning-papers
