@@ -27,6 +27,7 @@
 * 南京大学俞扬博士万字演讲全文：强化学习前沿：https://www.leiphone.com/news/201705/NlTc7oObBqh116Z5.html
 * AlphaGo 相关的资源：https://deepmind.com/research/alphago/
 * Reinforcement Learning(RL) for Natural Language Processing(NLP) ：https://github.com/adityathakker/awesome-rl-nlp
+* Reinforcement Learning工具箱toolbox：https://blog.csdn.net/WASEFADG/article/details/81167769
 
 ### 领域专家 
 
