@@ -39,6 +39,7 @@
 
 * 微软AirSim仿真平台 [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
 * 多智能体研究平台 [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/83653310)
+* Stable Baselines: https://github.com/hill-a/stable-baselines
 * Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course：https://github.com/dennybritz/reinforcement-learning
 * An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.https://github.com/kengz/openai_lab
 * Google DeepMind David Silver《深度强化学习》公开课教程学习笔记以及实战：http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g
