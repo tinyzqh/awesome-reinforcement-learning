@@ -71,8 +71,10 @@
 * Code to do multi agent systems research on StarCraft II. It contains methods to deal with the Raw Interface from the SC2 API, which has not been officially adapted for Python. This means that, the programmer can now access the objects at the game and the 2D original representation of the map :https://github.com/thefirebanks/MultiAgent-Systems-StarCraft2-PySC2-Raw
 * Implementation of Meta-RL A3C algorithm :https://github.com/awjuliani/Meta-RL
 * PlayGround: AI Research into Multi-Agent Learning：https://github.com/MultiAgentLearning/playground
+* A platform that lets you build agents to learn to play StarCraft: Brood War：https://github.com/TorchCraft/TorchCraftAI
 ## 论文
 
+* Self in NARS, an AGI System：https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full
 * Deep Reinforcement Learning Papers：https://github.com/junhyukoh/deep-reinforcement-learning-papers
 * 深度确定策略梯度 DPG的论文：http://www.jmlr.org/proceedings/papers/v32/silver14.pdf
 * DQN 论文：http://www.nature.com/articles/nature14236
@@ -93,6 +95,7 @@
 * Action-Conditional Video Prediction using Deep Networks in Atari Games： https://arxiv.org/pdf/1507.08750v2.pdf
 * Control of Memory, Active Perception, and Action in Minecraft： https://web.eecs.umich.edu/~baveja/Papers/ICML2016.pdf
 * PathNet：https://arxiv.org/pdf/1701.08734.pdf
+* Modular Architecture for StarCraft II with Deep Reinforcement Learning：https://arxiv.org/pdf/1811.03555.pdf ； [中文解释链接](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650752537&idx=3&sn=bb6c12f07d3a529bbdd7e89da58e3afd&chksm=871a8267b06d0b71e1bdc0d64474de9c0a3c1810aedc167444e5f996b5967469daa734770697&mpshare=1&scene=23&srcid=11248dzu7wuOeG7toyDLzIgT#rd)
 
 
 
