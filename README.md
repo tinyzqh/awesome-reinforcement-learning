@@ -38,41 +38,42 @@
 
 ## 强化学习实战资源
 
-* 微软AirSim仿真平台 [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
-* 多智能体研究平台 [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/83653310)
-* Stable Baselines: https://github.com/hill-a/stable-baselines
-* Distributed Multi-Agent Cooperation Algorithm based on MADDPG with prioritized batch data. ： https://github.com/namidairo777/Distributed-MADDPG
-* [PyTorch implementations of various DRL algorithms for both single agent and multi-agent](https://github.com/ChenglongChen/pytorch-madrl)
-* [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
-* [An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras](https://github.com/kengz/openai_lab)
-* [Google DeepMind David Silver《深度强化学习》公开课教程学习笔记以及实战](http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g)
 * [OpenAI Gym](https://github.com/openai/gym)
-* [PyTorch 实现 DQN, AC, A2C, A3C, , Policy Gradient, DDPG, TRPO, PPO, ACER](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch)
-* DQN 源码：http://sites.google.com/a/deepmind.com/dqn/ ；https://github.com/devsisters/DQN-tensorflow
-* [This repository contains a python implementation of a Deep Q-Network (DQN) for Atari gameplay using tensorflow.](https://github.com/prabhatnagarajan/dqn)
-* [reinforcement learning workshop ]https://github.com/frnsys/reinforcement_learning
-* DDPG 源码： https://github.com/stevenpjg/ddpg-aigym
-* [Reimplementation of DDPG(Continuous Control with Deep Reinforcement Learning) based on OpenAI Gym + Tensorflow ](https://github.com/floodsung/DDPG)
-* [General purpose framework for deep reinforcement learning](https://github.com/sisl/Chimp)
-* [PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning"](https://github.com/ikostrikov/pytorch-a3c)
-* [Continuous control with deep reinforcement learning - Deep Deterministic Policy Gradient (DDPG) algorithm implemented in OpenAI Gym environments](https://github.com/stevenpjg/ddpg-aigym)
-* A3C：https://github.com/miyosuda/async_deep_reinforce ；https://github.com/openai/universe-starter-agent
-* [Codes for understanding Reinforcement Learning( updating... )](https://github.com/halleanwoo/ReinforcementLearningCode)
-* 伯克利DeepMimic： https://github.com/xbpeng/DeepMimic ；SFV：https://arxiv.org/pdf/1810.03599.pdf
-* [Go AI program which implements the AlphaGo Zero paper](https://github.com/Tencent/PhoenixGo)
-* [An implementation of the Deep Deterministic Policy Gradient (DDPG) algorithm using Keras/Tensorflow with the robot simulated using ROS/Gazebo/MoveIt!](https://github.com/robosamir/ddpg-ros-keras)
-* [StarCraft II - pysc2 Deep Reinforcement Learning Examples](https://github.com/chris-chris/pysc2-examples)
-* [A reinforcement learning algorithm for the 2048 game ](https://github.com/Underflow/reinforcement-2048)
-* [TensorFlow implementation of Deep Reinforcement Learning papers ](https://github.com/carpedm20/deep-rl-tensorflow)
-* [Multiagent reinforcement learning simulation framework - Undergraduate thesis in Mechatronics Engineering at the University of Brasília](https://github.com/matheusportela/Multiagent-RL)
-* [DEEp Reinforcement learning framework](https://github.com/VinF/deer)
-* [Using reinforcement learning to teach a car to avoid obstacles](https://github.com/harvitronix/reinforcement-learning-car)
+* [Stable Baselines]( https://github.com/hill-a/stable-baselines)
+* [reinforcement learning workshop ](https://github.com/frnsys/reinforcement_learning)
 * [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
-* [Code to do multi agent systems research on StarCraft II. It contains methods to deal with the Raw Interface from the SC2 API, which has not been officially adapted for Python. This means that, the programmer can now access the objects at the game and the 2D original representation of the map](https://github.com/thefirebanks/MultiAgent-Systems-StarCraft2-PySC2-Raw)
+* [DEEp Reinforcement learning framework](https://github.com/VinF/deer)
 * [Implementation of Meta-RL A3C algorithm](https://github.com/awjuliani/Meta-RL)
 * [PlayGround: AI Research into Multi-Agent Learning](https://github.com/MultiAgentLearning/playground)
+* [A reinforcement learning algorithm for the 2048 game ](https://github.com/Underflow/reinforcement-2048)
+* [Go AI program which implements the AlphaGo Zero paper](https://github.com/Tencent/PhoenixGo)
+* [StarCraft II - pysc2 Deep Reinforcement Learning Examples](https://github.com/chris-chris/pysc2-examples)
+* [General purpose framework for deep reinforcement learning](https://github.com/sisl/Chimp)
+* [Codes for understanding Reinforcement Learning( updating... )](https://github.com/halleanwoo/ReinforcementLearningCode)
+* [Using reinforcement learning to teach a car to avoid obstacles](https://github.com/harvitronix/reinforcement-learning-car)
+* [TensorFlow implementation of Deep Reinforcement Learning papers ](https://github.com/carpedm20/deep-rl-tensorflow)
+* [Google DeepMind David Silver《深度强化学习》公开课教程学习笔记以及实战](http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g)
+* [PyTorch 实现 DQN, AC, A2C, A3C, , Policy Gradient, DDPG, TRPO, PPO, ACER](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch)
 * [A platform that lets you build agents to learn to play StarCraft: Brood War](https://github.com/TorchCraft/TorchCraftAI)
+* [PyTorch implementations of various DRL algorithms for both single agent and multi-agent](https://github.com/ChenglongChen/pytorch-madrl)
+* [Distributed Multi-Agent Cooperation Algorithm based on MADDPG with prioritized batch data]( https://github.com/namidairo777/Distributed-MADDPG)
+* [An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras](https://github.com/kengz/openai_lab)
 * [Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch ](https://github.com/qfettes/DeepRL-Tutorials)
+* [This repository contains a python implementation of a Deep Q-Network (DQN) for Atari gameplay using tensorflow](https://github.com/prabhatnagarajan/dqn)
+* [Reimplementation of DDPG(Continuous Control with Deep Reinforcement Learning) based on OpenAI Gym + Tensorflow](https://github.com/floodsung/DDPG)
+* [PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning"](https://github.com/ikostrikov/pytorch-a3c)
+* [Continuous control with deep reinforcement learning - Deep Deterministic Policy Gradient (DDPG) algorithm implemented in OpenAI Gym environments](https://github.com/stevenpjg/ddpg-aigym)
+* [Multiagent reinforcement learning simulation framework - Undergraduate thesis in Mechatronics Engineering at the University of Brasília](https://github.com/matheusportela/Multiagent-RL)
+* [An implementation of the Deep Deterministic Policy Gradient (DDPG) algorithm using Keras/Tensorflow with the robot simulated using ROS/Gazebo/MoveIt!](https://github.com/robosamir/ddpg-ros-keras)
+* [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
+* [Code to do multi agent systems research on StarCraft II. It contains methods to deal with the Raw Interface from the SC2 API, which has not been officially adapted for Python. This means that, the programmer can now access the objects at the game and the 2D original representation of the map](https://github.com/thefirebanks/MultiAgent-Systems-StarCraft2-PySC2-Raw)
+
+* 微软AirSim仿真平台 [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
+* 多智能体研究平台 [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/83653310)
+* DQN 源码：http://sites.google.com/a/deepmind.com/dqn/ ；https://github.com/devsisters/DQN-tensorflow
+* DDPG 源码： https://github.com/stevenpjg/ddpg-aigym
+* A3C：https://github.com/miyosuda/async_deep_reinforce ；https://github.com/openai/universe-starter-agent
+* 伯克利DeepMimic： https://github.com/xbpeng/DeepMimic ；SFV：https://arxiv.org/pdf/1810.03599.pdf
 ## 论文
 
 * Self in NARS, an AGI System：https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full
