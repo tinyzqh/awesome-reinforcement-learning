@@ -44,6 +44,7 @@
 * [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
 * [DEEp Reinforcement learning framework](https://github.com/VinF/deer)
 * [Implementation of Meta-RL A3C algorithm](https://github.com/awjuliani/Meta-RL)
+* [Reinforcement learning resources curated](https://github.com/aikorea/awesome-rl)
 * [PlayGround: AI Research into Multi-Agent Learning](https://github.com/MultiAgentLearning/playground)
 * [A reinforcement learning algorithm for the 2048 game ](https://github.com/Underflow/reinforcement-2048)
 * [Go AI program which implements the AlphaGo Zero paper](https://github.com/Tencent/PhoenixGo)
