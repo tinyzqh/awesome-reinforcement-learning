@@ -38,6 +38,7 @@
 
 * [OpenAI Gym](https://github.com/openai/gym)
 * [Stable Baselines]( https://github.com/hill-a/stable-baselines)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 * [reinforcement learning workshop ](https://github.com/frnsys/reinforcement_learning)
 * [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
 * [DEEp Reinforcement learning framework](https://github.com/VinF/deer)
