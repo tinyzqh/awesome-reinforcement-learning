@@ -5,11 +5,8 @@
 
 ### 教程网址
 
-* [什么是强化学习](http://www.cnblogs.com/geniferology/p/what_is_reinforcement_learning.html)
-* [强化学习系列之一:马尔科夫决策过程](http://www.algorithmdog.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B)
-* 强化学习系列之三:模型无关的策略评价：http://www.algorithmdog.com/reinforcement-learning-model-free-evalution
-* 强化学习系列之九:Deep Q Network (DQN)：http://www.algorithmdog.com/drl
-* 强化学习与MDP：http://www.cnblogs.com/mo-wang/p/4910855.html
+* [强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
+* [强化学习系列教程](http://www.algorithmdog.com/series/rl-series)
 * 强化学习入门及其实现代码： http://www.jianshu.com/p/165607eaa4f9
 * 强化学习简介—南京大学俞扬-PDF：https://www.jianguoyun.com/p/DVSE-5AQ5oLtBRiKmis
 * [强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
