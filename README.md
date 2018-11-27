@@ -58,6 +58,7 @@
 * [A platform that lets you build agents to learn to play StarCraft: Brood War](https://github.com/TorchCraft/TorchCraftAI)
 * [PyTorch implementations of various DRL algorithms for both single agent and multi-agent](https://github.com/ChenglongChen/pytorch-madrl)
 * [Distributed Multi-Agent Cooperation Algorithm based on MADDPG with prioritized batch data]( https://github.com/namidairo777/Distributed-MADDPG)
+* [An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)](https://github.com/junxiaosong/AlphaZero_Gomoku)
 * [An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras](https://github.com/kengz/openai_lab)
 * [Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch ](https://github.com/qfettes/DeepRL-Tutorials)
 * [This repository contains a python implementation of a Deep Q-Network (DQN) for Atari gameplay using tensorflow](https://github.com/prabhatnagarajan/dqn)
