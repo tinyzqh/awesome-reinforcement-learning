@@ -74,6 +74,7 @@
 * A3C：https://github.com/miyosuda/async_deep_reinforce ；https://github.com/openai/universe-starter-agent
 * 伯克利DeepMimic： https://github.com/xbpeng/DeepMimic ；SFV：https://arxiv.org/pdf/1810.03599.pdf
 * [This project is for learning and researching on Deep RL. Maintained by University AI researchers](https://github.com/tigerneil/awesome-deep-rl)
+* [Implementation of Meta-RL A3C algorithm ](https://github.com/awjuliani/Meta-RL)
 ## 论文
 * [Paper Collection of Multi-Agent Reinforcement Learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 * Self in NARS, an AGI System：https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full
