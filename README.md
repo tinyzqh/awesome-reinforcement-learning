@@ -5,11 +5,12 @@
 
 ### 教程网址
 
-* [强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
+
 * [强化学习系列教程](http://www.algorithmdog.com/series/rl-series)
+* [强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
+* [强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
 * 强化学习入门及其实现代码： http://www.jianshu.com/p/165607eaa4f9
 * 强化学习简介—南京大学俞扬-PDF：https://www.jianguoyun.com/p/DVSE-5AQ5oLtBRiKmis
-* [强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 * Openai Spinning Up ：https://spinningup.openai.com/en/latest/index.html
 * Reinforcement learning wiki：https://en.wikipedia.org/wiki/Reinforcement_learning
 * Deep Reinforcement Learning: Pong from Pixels：http://karpathy.github.io/2016/05/31/rl/
