@@ -75,7 +75,7 @@
 * 伯克利DeepMimic： https://github.com/xbpeng/DeepMimic ；SFV：https://arxiv.org/pdf/1810.03599.pdf
 * [This project is for learning and researching on Deep RL. Maintained by University AI researchers](https://github.com/tigerneil/awesome-deep-rl)
 ## 论文
-
+* [Paper Collection of Multi-Agent Reinforcement Learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 * Self in NARS, an AGI System：https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full
 * Deep Reinforcement Learning Papers：https://github.com/junhyukoh/deep-reinforcement-learning-papers
 * 深度确定策略梯度 DPG的论文：http://www.jmlr.org/proceedings/papers/v32/silver14.pdf
