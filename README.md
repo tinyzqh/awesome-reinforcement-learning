@@ -48,6 +48,7 @@
 * [Go AI program which implements the AlphaGo Zero paper](https://github.com/Tencent/PhoenixGo)
 * [StarCraft II - pysc2 Deep Reinforcement Learning Examples](https://github.com/chris-chris/pysc2-examples)
 * [General purpose framework for deep reinforcement learning](https://github.com/sisl/Chimp)
+* [Repo for the Deep Reinforcement Learning Nanodegree program](https://github.com/udacity/deep-reinforcement-learning)
 * [Codes for understanding Reinforcement Learning( updating... )](https://github.com/halleanwoo/ReinforcementLearningCode)
 * [Using reinforcement learning to teach a car to avoid obstacles](https://github.com/harvitronix/reinforcement-learning-car)
 * [TensorFlow implementation of Deep Reinforcement Learning papers ](https://github.com/carpedm20/deep-rl-tensorflow)
