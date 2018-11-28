@@ -17,6 +17,7 @@
 * CS 294: Deep Reinforcement Learning：http://rll.berkeley.edu/deeprlcourse/
 * [David视频里所使用的讲义pdf](https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver)
 * David Silver ICML2016 Tutorial: Deep Reinforcement Learning 视频 ：http://techtalks.tv/talks/deep-reinforcement-learning/62360/
+* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 ### 博客网址
 
 * Play pong with deep reinforcement learning based on pixel： http://karpathy.github.io/2016/05/31/rl/
