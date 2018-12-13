@@ -72,8 +72,7 @@
 * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
 * [Code to do multi agent systems research on StarCraft II. It contains methods to deal with the Raw Interface from the SC2 API, which has not been officially adapted for Python. This means that, the programmer can now access the objects at the game and the 2D original representation of the map](https://github.com/thefirebanks/MultiAgent-Systems-StarCraft2-PySC2-Raw)
 
-* 微软AirSim仿真平台 [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim ) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/84028487)
-* 多智能体研究平台 [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) ; 安装初步使用中文[教程](https://blog.csdn.net/weixin_39059031/article/details/83653310)
+* [AirSim Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research]( https://github.com/Microsoft/AirSim )
 * DQN 源码：http://sites.google.com/a/deepmind.com/dqn/ ；https://github.com/devsisters/DQN-tensorflow
 * DDPG 源码： https://github.com/stevenpjg/ddpg-aigym
 * A3C：https://github.com/miyosuda/async_deep_reinforce ；https://github.com/openai/universe-starter-agent
