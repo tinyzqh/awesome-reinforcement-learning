@@ -104,6 +104,8 @@
 * PathNet：https://arxiv.org/pdf/1701.08734.pdf
 * Modular Architecture for StarCraft II with Deep Reinforcement Learning：https://arxiv.org/pdf/1811.03555.pdf ； [中文解释链接](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650752537&idx=3&sn=bb6c12f07d3a529bbdd7e89da58e3afd&chksm=871a8267b06d0b71e1bdc0d64474de9c0a3c1810aedc167444e5f996b5967469daa734770697&mpshare=1&scene=23&srcid=11248dzu7wuOeG7toyDLzIgT#rd)
 
+## 论文复现
+* [Modular meta-learning](https://github.com/FerranAlet/modular-metalearning)
 
 
 
