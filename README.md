@@ -5,28 +5,24 @@
 
 ### 教程网址
 
-
 * [强化学习系列教程](http://www.algorithmdog.com/series/rl-series)
-* [强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 * [强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
-* 强化学习入门及其实现代码： http://www.jianshu.com/p/165607eaa4f9
-* 强化学习简介—南京大学俞扬-PDF：https://www.jianguoyun.com/p/DVSE-5AQ5oLtBRiKmis
-* Openai Spinning Up ：https://spinningup.openai.com/en/latest/index.html
-* Reinforcement learning wiki：https://en.wikipedia.org/wiki/Reinforcement_learning
-* Deep Reinforcement Learning: Pong from Pixels：http://karpathy.github.io/2016/05/31/rl/
-* CS 294: Deep Reinforcement Learning：http://rll.berkeley.edu/deeprlcourse/
-* [David视频里所使用的讲义pdf](https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver)
-* David Silver ICML2016 Tutorial: Deep Reinforcement Learning 视频 ：http://techtalks.tv/talks/deep-reinforcement-learning/62360/
+* [南京大学俞扬博士万字演讲全文：强化学习前沿](https://www.leiphone.com/news/201705/NlTc7oObBqh116Z5.html)
+* [OpenAi Spinning Up](https://spinningup.openai.com/en/latest/index.html)
+
+### Video Course
+* [强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
+* [David Silver's course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html); [David视频里所使用的讲义pdf](https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver)
+* [John Schulmann's lectures](https://www.youtube.com/channel/UCBOEQxX6zdihFB3VxxJdgHg/videos)
+* [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+* [David Silver ICML2016 Tutorial: Deep Reinforcement Learning](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 ### 博客网址
 
-* Play pong with deep reinforcement learning based on pixel： http://karpathy.github.io/2016/05/31/rl/
-* What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?： https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/
-* Deep Learning in a Nutshell: Reinforcement Learning：https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/
-* 南京大学俞扬博士万字演讲全文：强化学习前沿：https://www.leiphone.com/news/201705/NlTc7oObBqh116Z5.html
-* AlphaGo 相关的资源：https://deepmind.com/research/alphago/
-* Reinforcement Learning(RL) for Natural Language Processing(NLP) ：https://github.com/adityathakker/awesome-rl-nlp
-* Reinforcement Learning工具箱toolbox：https://blog.csdn.net/WASEFADG/article/details/81167769
+* [Play pong with deep reinforcement learning based on pixel]( http://karpathy.github.io/2016/05/31/rl/)
+* [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
+* [AlphaGo](https://deepmind.com/research/alphago/)
 
 ### 领域专家 
 
@@ -35,11 +31,23 @@
 * [加拿大阿尔伯塔大学著名增强学习大师Richard S. Sutton 教授](https://www.amii.ca/sutton/)
 * [Google DeepMind AlphaGo项目的主程序员 David Silver 博士](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html)
 
+## Awesome 
+* [Reinforcement learning resources curated](https://github.com/aikorea/awesome-rl)
+* [Awesome Reinforcement Learning(RL) for Natural Language Processing(NLP))](https://github.com/adityathakker/awesome-rl-nlp)
+## Algorithm Repos
+- [rllab](https://github.com/rll/rllab)
+- [Baseline](https://github.com/openai/baselines)
+- [Stable Baselines]( https://github.com/hill-a/stable-baselines)
+- [keras-rl](https://github.com/keras-rl/keras-rl)
+- [BURLAP](http://burlap.cs.brown.edu/)
+- [PyBrain](http://pybrain.org/)
+- [RLPy](http://acl.mit.edu/RLPy/)
+- [A Matlab Toolbox for Approximate RL and DP](http://busoniu.net/files/repository/readme_approxrl.html)
+
 ## 强化学习实战资源
 
 * [OpenAI Gym](https://github.com/openai/gym)
-* [Stable Baselines]( https://github.com/hill-a/stable-baselines)
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+* [universe](https://github.com/openai/universe)
 * [reinforcement learning workshop ](https://github.com/frnsys/reinforcement_learning)
 * [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
 * [DEEp Reinforcement learning framework](https://github.com/VinF/deer)
