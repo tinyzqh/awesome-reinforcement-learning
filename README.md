@@ -9,7 +9,7 @@
 - [强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
 - [南京大学俞扬博士万字演讲全文：强化学习前沿](https://www.leiphone.com/news/201705/NlTc7oObBqh116Z5.html)
 - [OpenAi Spinning Up](https://spinningup.openai.com/en/latest/index.html)
-- [David Silver《深度强化学习》公开课教程学习笔记以及实战](http://mp.weixin.qq.com/s/y1aa_nIimSv4wlprGFHR7g)
+- [David Silver《深度强化学习》公开课教程学习笔记以及实战](https://zhuanlan.zhihu.com/reinforce)
 
 ### Book
 - [Hands-On Reinforcement Learning With Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
