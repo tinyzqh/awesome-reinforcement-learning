@@ -19,17 +19,21 @@
 - [REINFORCEMENT LEARNING AND OPTIMAL CONTROL](http://web.mit.edu/dimitrib/www/RLbook.html)
 
 ### Video Course
-- [强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
-- [David Silver's course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html); [David视频里所使用的讲义pdf](https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver)
+- [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)；
+    - [中文翻译-2018秋季CS294-112深度强化学习](https://ai.yanxishe.com/page/groupDetail/30?invitation=&from=channel_share)；
+    - [CS294课程中文笔记-1](https://zhuanlan.zhihu.com/c_125238795)；
+    - [CS294课程中文笔记-2 (记录较好)](https://zhuanlan.zhihu.com/c_150977189); 
+    - [作业讲解](https://zhuanlan.zhihu.com/codekitty)
+- [David Silver's course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html); 
+    - [David视频里所使用的讲义pdf](https://github.com/18279406017/Course-notes/tree/master/Reinforcement%20Learning/PPT%20OF%20David%20Silver)
 - [John Schulmann's lectures](https://www.youtube.com/channel/UCBOEQxX6zdihFB3VxxJdgHg/videos)
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-- [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)；[中文翻译-2018秋季CS294-112深度强化学习](https://ai.yanxishe.com/page/groupDetail/30?invitation=&from=channel_share)；[CS294课程中文笔记](https://zhuanlan.zhihu.com/c_125238795)；[作业讲解](https://zhuanlan.zhihu.com/codekitty)
 - [CS 287: Advanced Robotics, Fall 2015 ](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/#syllabus)
 - [CS234: Reinforcement Learning Winter 2019](http://web.stanford.edu/class/cs234/index.html)
 - [Deep Learning (DLSS) and Reinforcement Learning (RLSS) Summer School, Montreal 2017](http://videolectures.net/deeplearning2017_montreal/)
-- [David Silver ICML2016 Tutorial: Deep Reinforcement Learning](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
-- [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-- [深度学习与强化学习课程](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+- [Advanced Deep Learning and Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+- [强化学习教程(莫烦)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
+
 
 ### 博客网址
 
@@ -85,7 +89,9 @@
 
 ## Project
 
-- [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html)  [[code](https://github.com/xbpeng/DeepMimic)]; [SFV](https://arxiv.org/pdf/1810.03599.pdf)
+- [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html)
+    - [[code](https://github.com/xbpeng/DeepMimic)]; 
+    - [SFV](https://arxiv.org/pdf/1810.03599.pdf)
 - [StarCraft II - pysc2 Deep Reinforcement Learning Examples](https://github.com/chris-chris/pysc2-examples)
 - [An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)](https://github.com/junxiaosong/AlphaZero_Gomoku)
 - [Using reinforcement learning to teach a car to avoid obstacles](https://github.com/harvitronix/reinforcement-learning-car)
